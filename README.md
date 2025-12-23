@@ -22,8 +22,6 @@
 - [Roadmap](#-roadmap)
 - [Casos de Uso Reales](#-casos-de-uso-reales)
 - [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
-- [Contacto](#-contacto)
 
 ---
 
